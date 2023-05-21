@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.exe
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.deps.json
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.runtimeconfig.json
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.dll
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.pdb
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.dll
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\refint\calculadora-console.dll
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.pdb
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Projetos\c#\projects\calculadora-console\calculadora-console\obj\Debug\net6.0\ref\calculadora-console.dll
